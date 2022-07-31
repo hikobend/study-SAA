@@ -133,6 +133,10 @@ NATインスタンスは送受信ができるように設定する。NATイン�
 
 ・Elastic IPアドレス
 
+静的なパブリックIPアドレスを利用することができる。
+
+・FTPサーバー
+
 ・Provisioned IOPS
 
 ・OLAP
