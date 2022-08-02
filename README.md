@@ -614,7 +614,9 @@ Auto Scalingグループ作成時に指定。(全体に適応)
 
 数ミリ秒の管理データベース。拡張性も高い。
 
+・Aurora
 
+3つの異なるAZに格納するため、AuroraもしくはDynamoDB。互換性があるのはAurora。
 
 
 
