@@ -960,7 +960,9 @@ S3 GlacierとStorageGateway
 
 ELBが異常と判断したインスタンスにはトラフィックの送信が停止される。
 
+・aws:SourceIp
 
+IAMに関して、コンソールの利用を指定のIPアドレスだけに絞りたい場合に利用。
 
 
 
