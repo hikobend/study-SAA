@@ -1170,7 +1170,9 @@ Ec2インスタンスやオンプレミス、サーバーレスLambda関数やEC
 
 IPアドレスを含むインスタンスに関わる情報を確認できる。
 
+・Auto　Scalingのライフサイクル
 
+インスタンス起動・Pending 起動完了・InService インスタンス削除Terminationg 削除完了・Teminated
 
 
 
