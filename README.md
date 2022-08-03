@@ -1154,7 +1154,9 @@ Retainを指定することでCloudFormationはスタックを削除する際、
 
 静的IPv4アドレス。インターネットからアクセス可能なパブリックIPv4アドレス。インスタンスへ割り当てる場合に必要なIPアドレス。
 
+・Elastic Beanstalk
 
+言語およびDockerを使用して開発されたウェブアプリケーションをApache,Nginx,Passenger,IISなど使い慣れたサーバーでデプロイやスケーリングするためのサービス。
 
 
 
