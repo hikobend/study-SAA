@@ -1184,10 +1184,17 @@ EC2インスタンスの使用状況及びリザーブドインスタンスの�
 
 Chefを実行するとその手順通りに自動構築してデプロイするサービス。
 
+・Instance　Store-Backed AMIとInstance　EBS-Backed AMI
 
+Instance　Store-Backed Linux AMIからInstance　EBS-Backed Linux AMIに変換できる。変換する際はEBSを準備して、元のインスタンスストアのルートボリュームと同じサイズを用意する。
 
+・Amazon EBS-Backed
 
+OSがインストールされるルートボリュームがEBS上
 
+・Instance Store-Backed
+
+OSがインストールされるルートボリュームがインスタンスストア上（物理ホストのローカルディスク）
 
 
 
