@@ -922,7 +922,9 @@ S3 GlacierとStorageGateway
 
 マルチオブジェクト削除(Multi-Object Delete API)を使用して、S3から多数のオブジェクトを削除できる
 
+・DELETE API
 
+単一のHTTPリクエストで1つのオブジェクトを削除できる
 
 
 
