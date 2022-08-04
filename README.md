@@ -1402,7 +1402,9 @@ ebsの場合、EBS-Backed AMI。instance storeの場合,Instance store-Backedイ
 
 ログはS3バケットとCoudWatchLogsロググループに配信される。
 
+・EBS-backedインスタンスとEC2instance store-backed
 
+EBS-backedインスタンスは停止できる。EC2instance store-backedは停止できない。EBS-backed インスタンスを停止すると。running->stopping->stoppedを経る。停止後もデータは消えない。
 
 
 
