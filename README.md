@@ -1372,7 +1372,9 @@ ChefやPuppetのマネージドインスタンスを利用できる構成管理�
 
 ebsの場合、EBS-Backed AMI。instance storeの場合,Instance store-Backedインスタンス。
 
+・レイテンシーに基づくルーティング
 
+霊天使の方が、低い場合、Route53はエンドユーザーのリクエストに対して、近いEC2データセンターのロードバランサーのIPアドレスを返す。
 
 
 
