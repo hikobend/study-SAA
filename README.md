@@ -1368,7 +1368,9 @@ EBSの保管と転送時に暗号化できる。またスナップショット�
 
 ChefやPuppetのマネージドインスタンスを利用できる構成管理サービス。ChefやPuppetはサーバー構成を自動化できるようにするためのオートメーションサービス。
 
+・ルートデバイスタイプの値
 
+ebsの場合、EBS-Backed AMI。instance storeの場合,Instance store-Backedインスタンス。
 
 
 
