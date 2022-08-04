@@ -1376,8 +1376,11 @@ ebsの場合、EBS-Backed AMI。instance storeの場合,Instance store-Backedイ
 
 霊天使の方が、低い場合、Route53はエンドユーザーのリクエストに対して、近いEC2データセンターのロードバランサーのIPアドレスを返す。
 
+## SAA#49
 
+・IAMのユーザー名
 
+ユーザー名を変更するためにはCLI、AWS APIを用いる必要がある。コンソールでは変更できない。
 
 
 
