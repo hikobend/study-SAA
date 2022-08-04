@@ -1474,7 +1474,11 @@ CPU使用量、ネットワーク使用量、ディスクパフォマンス、�
 
 EBS-BackedSMIはEC2Instancestore-BackedAMIよりも早く起動する。
 
+## SAA#52
 
+・DedicatedHost
+
+サーバーにバインドされた既存のソフトウェアライセンスを利用でき、コスト削減になる。
 
 
 
