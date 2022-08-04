@@ -1530,7 +1530,9 @@ RDSでは、DBインスタンスへのOSアクセスはできない。マネー�
 
 CloudFormationを用いて、インスタンスのタイプやElasticIpアドレスを指定できる。
 
+・Route53のALIASレコード
 
+DNSの登録はCNAMEレコードかALIASレコードを使用する。ALIASレコードの方がパフォーマンスが良い。
 
 
 
