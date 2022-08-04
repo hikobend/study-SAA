@@ -1338,6 +1338,10 @@ AZと異なるデータセンター。DNSやコンテンツ配信サービスが
 
 複数のAZにまたがるVPCを作成できる。
 
+・DeketeOnTermination
+
+DeketeOnTerminationをfalseにすることにより、インスタンスを削除ルートボリュームを保持することができる。
+
 
 
 
