@@ -1396,9 +1396,11 @@ ebsの場合、EBS-Backed AMI。instance storeの場合,Instance store-Backedイ
 
 ・ウォームスタンバイソリューション
 
-サーバやネットワーク機器おw冗長化した予備システムへの切り替え方式。
+サーバやネットワーク機器を冗長化した予備システムへの切り替え方式。
 
+・CloudTrail
 
+ログはS3バケットとCoudWatchLogsロググループに配信される。
 
 
 
