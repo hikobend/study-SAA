@@ -1406,7 +1406,9 @@ ebsの場合、EBS-Backed AMI。instance storeの場合,Instance store-Backedイ
 
 EBS-backedインスタンスは停止できる。EC2instance store-backedは停止できない。EBS-backed インスタンスを停止すると。running->stopping->stoppedを経る。停止後もデータは消えない。
 
+・EC2のモニタリング
 
+CloudWatchエージェントを利用することで、メモリの使用量、ディスクスワップの使用量、ページファイルの使用状況、ログの回収をモニタリングできる。
 
 
 
