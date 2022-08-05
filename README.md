@@ -1768,7 +1768,10 @@ IPSecは、IPプロトコルスタックを拡張するプロトコル。安全�
 
 スナップショットはスナップショットが作成されたリージョンに再現される。
 
+・Instance Store-Backed AMIをEBS-backed AMIに変換
 
+Instance Store-Backed AMIを
+・Instance Store-Backed AMIをEBS-backed AMIに変換をバンドルするのに使用したX.509プライベートキーをインスタンスにアップロードする。
 
 
 
