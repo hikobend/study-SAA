@@ -1770,10 +1770,11 @@ IPSecは、IPプロトコルスタックを拡張するプロトコル。安全�
 
 ・Instance Store-Backed AMIをEBS-backed AMIに変換
 
-Instance Store-Backed AMIを
-・Instance Store-Backed AMIをEBS-backed AMIに変換をバンドルするのに使用したX.509プライベートキーをインスタンスにアップロードする。
+EBS-backed AMIに変換をバンドルするのに使用したX.509プライベートキーをインスタンスにアップロードする。
 
+・インスタンスストアボリューム
 
+インスタンスの再起動や停止をするとインスタンスストアボリュームのデータは削除されて、インスタンスは新しいホストで実行される。
 
 
 
