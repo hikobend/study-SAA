@@ -2402,7 +2402,9 @@ Lambdaを使用したSPIGatewayを使用して、エンドポイントを公開�
 
 APIGatewayを使ってLambdaをAPI化して、モバイルアプリからMobileSDKのインクルードなしに叩くことができる。
 
+・CloudFrontディストリビューション
 
+CloudFrontディストリビューションを介して画像と動画を配信することで、ウェブサイトのトラフィックをすぐに対処できる。
 
 
 
