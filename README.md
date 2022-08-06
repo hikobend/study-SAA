@@ -2250,7 +2250,9 @@ KinesisDataStreamsはデータの取り込みに使用でき、KinesisDataFireHo
 
 S3でキャプチャするようにできる。
 
+・プライベートコンテンツへ安全なアクセス
 
+署名付きURLか署名付きCookieの使用が求められるようにClouFrontを設定
 
 
 
