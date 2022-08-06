@@ -2228,7 +2228,9 @@ SSL接続に関して、プライマリインスタンスにSSL証明書をア�
 
 ウェブIDフェデレーションを使用すると、一時的な認証情報の認証を生成し、SDKを介してRedshiftのテーブルにアクセスできる。
 
+・Kinesis
 
+KinesisDataStreamsはデータの取り込みに使用でき、KinesisDataFireHoseは分析のためにS3とRedshiftにデータをロードするために使用。
 
 
 
