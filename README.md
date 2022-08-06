@@ -2384,7 +2384,9 @@ AutoScalingとALBを用いて、需要に応じてウェブサーバーをスケ
 
 AutoScalingを使用したアプリケーションはIPアドレスを自動的に割り当てるため制限ができないため、セキュリティグループにセキュリティグループを関連づけることで制限する。
 
+・APIGatewayとLambda
 
+Lambdaを使用したSPIGatewayを使用して、エンドポイントを公開し、DynamoDBでデータをと取り込める。
 
 
 
