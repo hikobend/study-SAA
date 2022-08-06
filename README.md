@@ -2398,7 +2398,9 @@ Lambdaを使用したSPIGatewayを使用して、エンドポイントを公開�
 
 本番用のRDSデータベースにRDSリードレプリカを容易に作成できる。リードレプリカを用いてクエリを実行することで本番用のRDSに影響を与えることがない。s
 
+・APIGateEWayとLabmda
 
+APIGatewayを使ってLambdaをAPI化して、モバイルアプリからMobileSDKのインクルードなしに叩くことができる。
 
 
 
