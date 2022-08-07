@@ -2569,3 +2569,7 @@ FSxForWindowsFileServerとStorageGatewayファイアゲートウェイはSMBプ�
 ・オペミス
 
 システムの運用時の人為的なミス。
+
+・S3が正常に作動しているかを確認
+
+HTTPステータスコード200を返す。MD5チェックサムに格納が成功を確認できる。
