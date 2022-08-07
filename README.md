@@ -2977,3 +2977,7 @@ Microsoft分散ファイルシステムレプリケーションをサポート�
 ・Kinesis
 
 KinesisDataFirehoseとKinesisDataAnalyticsはストリーミングデータを最小限の労力と運用管理で処理する機能を提供。
+
+・ApproximateNumberOfMessage
+
+インスタンスあたりのバックログを計算する。SQSキューの長さを決定。
