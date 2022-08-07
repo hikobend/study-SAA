@@ -2863,3 +2863,7 @@ HVM AMIと拡張ネットワーキング
 ・EBS暗号化
 
 全てのEBSボリュームタイプでサポートする。スナップショットは自動的に暗号化される。
+
+・KinesisDataAnalytics
+
+Datastreamsでデータをキャプチャし、DataAnalyticsで運用のオーバーヘッドなしでSQLクエリを使用してデータをクエリできる。
