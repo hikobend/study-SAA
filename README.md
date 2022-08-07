@@ -2867,3 +2867,7 @@ HVM AMIと拡張ネットワーキング
 ・KinesisDataAnalytics
 
 Datastreamsでデータをキャプチャし、DataAnalyticsで運用のオーバーヘッドなしでSQLクエリを使用してデータをクエリできる。
+
+・EBSボリュームを別のAZに移行
+
+EBSボリュームのスナップショットを作成し、他のAZでスナップショットから新しいボリュームを作成する。
