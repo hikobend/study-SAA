@@ -2975,3 +2975,13 @@ S3バケットでサーバー側の暗号化を有効にする。暗号化され
 ・DynamoDB
 
 テーブルの結合ができない。
+
+## SAA#115
+
+・ADConnectorを使ったオンプレミスのActiveDirectoryからAWSへの接続
+
+IDフェデレーションとロールベースのアクセス制御は、オンプレミスのActiveDirectoryとIAMロールに接続するADコネクターが必要。
+
+・ADConecter
+
+クラウド内の情報をキャッシュせずにディレクトリリクエストをオンプレミスの Microsoft Active Directory にリダイレクトするために使用できるディレクトリゲートウェイ
