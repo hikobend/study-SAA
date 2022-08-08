@@ -3207,3 +3207,7 @@ S3はデータの暗号化と複合化を自動的に管理する。
 ・KMSで発生するイベントの追跡
 
 CloudTrailを使用して、KMSキーの使用状況をログに記録する。
+
+・UpdateShardCount
+
+KinesisDataStreamのスループットを向上させることができる。
