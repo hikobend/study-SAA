@@ -3277,3 +3277,7 @@ ECSはマルチコンテナをサポートし、各サービスを個別にス�
 ・IAM:InstanceProfile
 
 必要なDynamoDBテーブルからの読み書きに必要な権限を持つIAMロールを作成し、ロールを付与する。
+
+・FSx
+
+Windows用の共有ファイルシステムを提供し、ActiveDirectoryと結合できる。
