@@ -3211,3 +3211,5 @@ CloudTrailを使用して、KMSキーの使用状況をログに記録する。
 ・UpdateShardCount
 
 KinesisDataStreamのスループットを向上させることができる。
+
+## SAA#128
