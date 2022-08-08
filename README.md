@@ -3127,3 +3127,7 @@ EC2インスタンス、CloudTrail、Route53 やその他のソースのログ�
 ・KinesisProducerLibrary
 
 Kinesisデータストリームに対する優れたスループットを実現できる。
+
+・プロビジョンドIOPS
+
+EC2インスタンスとEBS間のネットワークパフォマンスの向上に役立つ
