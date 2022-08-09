@@ -3355,3 +3355,9 @@ KinesisDataFirehoseとKinesisDataAnalyticsはストリーミングデータを�
 ・ApproximateNumberOfMessage
 
 インスタンスあたりのバックログを計算する。SQSキューの長さを決定。
+
+## SAA#135
+
+・SNSとSQS
+
+SNSFIFOトピックをSQSFIFOを組み合わせることで、厳密な順序で、重複することなく、メッセージを送信と処理する必要があるアプリケーションを構築できる。
