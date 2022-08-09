@@ -3451,3 +3451,7 @@ KMSkeysを使用してクラスターの暗号化が可能。
 ・CloudFrontのキャッシュ動作
 
 CloudFrontにOAIを使用してプライベートS3オブジェクトにアクセスし、CloudFrontのキャッシュ動作で「ビュワーのアクセス制限(署名付きURLの使用)」オプションを選択して署名付きURLを使用する。
+
+・TransferAcceleration
+
+異なる地理的な地域からS3への高速データ転送を可能にする。
