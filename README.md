@@ -3651,3 +3651,7 @@ ECS、FargateはEFSと統合され、共有ファイルストレージを提供�
 ・FSxforLustre
 
 高性能な機械学習を提供する。ただし、Fatgateをサポートしていない。
+
+・restricted-ssh
+
+restricted-sshのAWS configマネージドルールを作成して、セキュリティグループを介してsshトラフィックがゆうこうになっているかを確認、通知できる、
