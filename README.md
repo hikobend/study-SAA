@@ -3625,3 +3625,8 @@ EC2インスタンスがインターネットを経由せずにS3にアクセス
 ・DirectoryService
 
 マネージド型ActiveDirectoryを作成し、現在のインスタンスをアンインストールできる。IT部門の管理者の負担を軽減できる。
+
+・Aurora
+
+AuroraServerlessforAuroraMySQLは、最小限の操作で、パフォーマンス、スケーリング、耐久性を向上させる。
+
