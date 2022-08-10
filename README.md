@@ -8,6 +8,8 @@
 
 ・SNS、SQS
 
+・DirectConnect
+
 ## SAA#1
 
 インターネットに接続するステップ
