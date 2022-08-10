@@ -8,7 +8,7 @@
 
 ・SNS、SQS
 
-・DirectConnect
+・DirectConnect,DataSync
 
 ## SAA#1
 
