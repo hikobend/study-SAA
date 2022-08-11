@@ -3777,3 +3777,7 @@ SMBプロトコルをサポートし、ローカルキャッシュはデータ�
 ・GlobalAccelerator
 
 ALBエンドポイントを備えたGlobalAcceleratorは、一回限りの高可用性ソリューションを提供し、IPを2つのグローバルな静的パブリックIPに制限する。
+
+・WAF
+
+OAIを使用し、CloudFrontでWAFを使用することで、S3オリジンを使用したCloudFrontを保護できる
