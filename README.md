@@ -3781,3 +3781,9 @@ ALBエンドポイントを備えたGlobalAcceleratorは、一回限りの高可
 ・WAF
 
 OAIを使用し、CloudFrontでWAFを使用することで、S3オリジンを使用したCloudFrontを保護できる
+
+## SAA#163
+
+・CloudFrontオリジングループフェイルオーバー
+
+プライマリバケットとスタンバイバケットのフェイルオーバー処理して使用できる。
