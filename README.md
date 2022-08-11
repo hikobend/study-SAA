@@ -3787,3 +3787,7 @@ OAIを使用し、CloudFrontでWAFを使用することで、S3オリジンを�
 ・CloudFrontオリジングループフェイルオーバー
 
 プライマリバケットとスタンバイバケットのフェイルオーバー処理して使用できる。
+
+・FSxforWindowsFileServer
+
+WindowsインスタンスとLinuxインスタンスの両方で一元化されたファイルシステムをして使用できる。
