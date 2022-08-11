@@ -6,8 +6,6 @@
 
 ・サーバ側やクライアント側の暗号化。KMS
 
-・SNS、SQS
-
 ・DirectConnect,DataSync
 
 ## SAA#1
