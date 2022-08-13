@@ -6,7 +6,9 @@
 
 ・サーバ側やクライアント側の暗号化。KMS
 
-・DirectConnect,DataSync
+・DirectConnect : 継続的な接続
+
+DataSync
 
 ・問題文をよく読む
 
