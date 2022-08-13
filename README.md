@@ -8,6 +8,8 @@
 
 ・DirectConnect,DataSync
 
+・問題文をよく読む
+
 ## SAA#1
 
 インターネットに接続するステップ
