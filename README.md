@@ -8,7 +8,7 @@
 
 ・DirectConnect : 継続的な接続
 
-DataSync
+・DataSync : 中断対応可
 
 ・問題文をよく読む
 
