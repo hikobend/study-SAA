@@ -4,6 +4,16 @@
 
 # 苦手分野
 
+・データキー
+
+データを暗号化した鍵
+
+・マスターキー
+
+データを元に戻す鍵を暗号化した鍵
+
+https://dev.classmethod.jp/articles/10minutes-kms/
+
 ・問題文をよく読む
 
 ・キャッシュStogareGateway
