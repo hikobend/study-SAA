@@ -4,6 +4,10 @@
 
 # 苦手分野
 
+・SMB
+
+StorageGatewayファイル
+
 ・Kinesis
 
 とり・でん・ぷん
